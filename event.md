@@ -1,8 +1,8 @@
 #こちらのページはテーマパークEUROPEのeventを紹介するページです。<br>
 <
-[home](https://takajo-soft03.github.io/europe/)>
+[home](https://takajo-soft03.github.io/EUROPE/)>
 <
-[attraction](https://takajo-soft03.github.io/europe/attraction)> <br>
+[attraction](https://takajo-soft03.github.io/EUROPE/attraction)> <br>
 <hr>
 <br>
 [20yy/mm/dd | 第32回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
@@ -24,6 +24,7 @@
 [20yy/mm/dd | 第22回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第21回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第20回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
+[20yy/mm/dd | エポルエくんがYouTuberに?!。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | ★エウロペ二周年記念★ 2ndANNIVERSARYイベント開催。　](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第19回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第18回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
@@ -33,6 +34,7 @@
 [20yy/mm/dd | 第14回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第13回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第12回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
+[20yy/mm/dd | ●R×Europe。エポルエくんカラーのN500系が期間限定で運行。](https://takajo-soft03.github.io/EUROPE/event/info)<br>
 [20yy/mm/dd | 第11回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 期間限定、ハロウィンエポルエくんが登場。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第10回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
@@ -41,7 +43,7 @@
 [20yy/mm/dd | 第7回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | ★エウロペ一周年記念★ 1stANNIVERSARYイベント開催。　限定パスなど](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第6回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
-[20yy/mm/dd | ウルトラヒーローショー伴催のお知らせ](https://takajo-soft03.github.io/EUROPE/event/info)<br>
+[20yy/mm/dd | ウルトラヒーローショー開催のお知らせ](https://takajo-soft03.github.io/EUROPE/event/info)<br>
 [20yy/mm/dd | 第5回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第4回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 年間フリーパスを発行可能になりました。](https://takajo-soft03.github.io/EUROPE/event/info)<br>
