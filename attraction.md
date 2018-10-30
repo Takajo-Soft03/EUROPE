@@ -1,12 +1,12 @@
 # `アトラクション`
 ****************
 - ## <span style="color:Lightgreen;">ジェットコースター</span>
-        - ### <span style="color:black;">ライドオンシルバードラゴン</span>
+* ### <span style="color:black;">ライドオンシルバードラゴン</span>
 ****************   
 - ## <span style="color:Lightgreen;">ライドアトラクション</span>
-        - ### <span style="color:black;">エポルエくんのファンタジーライド</span>
+* ### <span style="color:black;">エポルエくんのファンタジーライド</span>
         
-        - ### <span style="color:black;">偉大なる魔法使いの冒険</span>
+* ### <span style="color:black;">偉大なる魔法使いの冒険</span>
 
 ****************
 # `ショップ`
