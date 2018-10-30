@@ -1,4 +1,4 @@
-# 'アトラクション'
+# `アトラクション`
 ****************
 ## <span style="color:Lightgreen;">ジェットコースター</span>
 ### <span style="color:black;">ライドオンシルバードラゴン</span>
@@ -9,11 +9,11 @@
 ### <span style="color:black;">偉大なる魔法使いの冒険</span>
 
 ****************
-# 'ショップ'
+# `ショップ`
 ## <span style="color:Lightgreen;">エポルエくんのおうち</span>
 ****************
-# 'レストラン'
+# `レストラン`
 ## <span style="color:Lightgreen;">冒険者の酒場</span>
 ****************
-# 'サービス'
+# `サービス`
 ## <span style="color:Lightgreen;">衣装貸し出し</span>
