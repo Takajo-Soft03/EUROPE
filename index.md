@@ -1,9 +1,13 @@
-#　EUROPE worldへようこそ！！
+# EUROPE worldへようこそ！！
 
 # 当園人気マスコットキャラクター<font color="Red">エポルエくん</font>
 ※エポルエくんをクリックしてみよう！イベント情報を教えてくれるよ。o
 ![エポルエくん]("eporue.jpeg" =100x)("https://www.google.co.jp/")
-<img src="eporue.jpeg" width="500px" url="https://www.google.co.jp/">
+<img src="eporue.jpeg" width="500px">
 
-＃ アクセス
+# アクセス
 サバの味噌煮駅4sin番ホームから電車で2√4分
+天岩戸駅からバスで天照大神が出てくるくらいの時間
+初恋駅から徒歩で冬があなたを奪い去るまでの時間
+
+# 料金
