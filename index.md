@@ -5,7 +5,7 @@
 [![エポルエくん](eporu.jpg)]("https://takajo-soft03.github.io/EUROPE/event")
 
 # <font color="Red">↓</font>アトラクション<font color="Red">↓</font>
-[アトラクション](https://takajo-soft03.github.io/EUROPE/attraction/)
+[アトラクション](https://takajo-soft03.github.io/EUROPE/attraction)
 
 # アクセス
 サバの味噌煮駅4sin番ホームから電車で2√4分<br>
