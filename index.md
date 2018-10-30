@@ -2,7 +2,7 @@
 
 # 当園人気マスコットキャラクター<font color="Red">エポルエくん</font>
 ※エポルエくんをクリックしてみよう！イベント情報を教えてくれるよ。
-[![エポルエくん](eporu.jpg)]("https://takajo-soft03.github.io/EUROPE/event")
+[![エポルエくん](eporu.jpg)](https://takajo-soft03.github.io/EUROPE/event)
 
 # <font color="Red">↓</font>アトラクション<font color="Red">↓</font>
 [アトラクション](https://takajo-soft03.github.io/EUROPE/attraction)
