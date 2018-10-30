@@ -1,3 +1,6 @@
+[ホームへ戻る](https://takajo-soft03.github.io/EUROPE)
+****************
+
 # アトラクション
 ****************
 * ## <span style="color:Lightgreen;">ジェットコースター</span>
