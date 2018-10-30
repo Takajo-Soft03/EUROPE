@@ -2,7 +2,7 @@
 
 # 当園人気マスコットキャラクター<font color="Red">エポルエくん</font>
 ※エポルエくんをクリックしてみよう！イベント情報を教えてくれるよ。o
-![エポルエくん](eporu.jpg)("https://www.google.co.jp/")
+[![エポルエくん](eporu.jpg)]("https://www.google.co.jp/")
 
 # アクセス
 サバの味噌煮駅4sin番ホームから電車で2√4分
