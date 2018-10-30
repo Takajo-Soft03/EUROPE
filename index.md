@@ -4,6 +4,9 @@
 ※エポルエくんをクリックしてみよう！イベント情報を教えてくれるよ。
 [![エポルエくん](eporu.jpg)]("https://takajo-soft03.github.io/EUROPE/event")
 
+# <font color="Red">↓</font>アトラクション<font color="Red">↓</font>
+<font color="Yellow">[アトラクション](https://takajo-soft03.github.io/EUROPE/attraction/)</font>
+
 # アクセス
 サバの味噌煮駅4sin番ホームから電車で2√4分
 天岩戸駅からバスで天照大神が出てくるくらいの時間
@@ -17,21 +20,21 @@
       <th>時間</th>
       <th>大人</th>
       <th>子供</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>9:00~21:00</th>
+      <th>36,000Z＄</th>
+      <th>200円</th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>21:00~9:00</th>
+      <th>30,000£</th>
+      <th>2€</th>
+    </tr>
+  </tbody>
+</table>
+
