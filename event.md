@@ -41,6 +41,7 @@
 [20yy/mm/dd | 第7回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | ★エウロペ一周年記念★ 1stANNIVERSARYイベント開催。　限定パスなど](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第6回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
+[20yy/mm/dd | ウルトラヒーローショー伴催のお知らせ](https://takajo-soft03.github.io/EUROPE/event/info)<br>
 [20yy/mm/dd | 第5回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 第4回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [20yy/mm/dd | 年間フリーパスを発行可能になりました。](https://takajo-soft03.github.io/EUROPE/event/info)<br>
