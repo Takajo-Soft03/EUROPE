@@ -1,5 +1,5 @@
 [ホームへ戻る](https://takajo-soft03.github.io/EUROPE)
-
+[イベントページへ](https://takajo-soft03.github.io/EUROPE/event)<br>
 
 # アトラクション
 ****************
