@@ -1,5 +1,8 @@
 # EUROPE worldへようこそ！！
 
+# EUROPEとは？
+EUROPEはまるでＲＰＧの中に飛び込んだかのような気分を味わえるテーマパーク！！
+
 # 当園人気マスコットキャラクター<font color="Red">エポルエくん</font>
 ※エポルエくんをクリックしてみよう！イベント情報を教えてくれるよ。
 [![エポルエくん](eporu.jpg)](https://takajo-soft03.github.io/EUROPE/event)
