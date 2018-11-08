@@ -1,8 +1,8 @@
 #こちらのページはテーマパークEUROPEのeventを紹介するページです。<br>
 <
-[home](https://takajo-soft03.github.io/EUROPE/)>
+[ホームへ戻る](https://takajo-soft03.github.io/EUROPE/)>
 <
-[attraction](https://takajo-soft03.github.io/EUROPE/attraction)> <br>
+[アトラクションページへ](https://takajo-soft03.github.io/EUROPE/attraction)> <br>
 <hr>
 <br>
 20yy/mm/dd | [第32回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
@@ -51,3 +51,4 @@
 20yy/mm/dd | [エポルエくんパレードを定期イベント化することが決定しました。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [人気を博したエポルエくんパレード復活！ ](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [エポルエくんパレード開催！ エポルエトレインに乗って夢の国へ行こう！](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
+[トップへ戻る](https://takajo-soft03.github.io/EUROPE/event)
