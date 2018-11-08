@@ -10,6 +10,10 @@ EUROPEはまるでＲＰＧの中に飛び込んだかのような気分を味�
 # <font color="Red">↓</font>アトラクション<font color="Red">↓</font>
 [アトラクション](https://takajo-soft03.github.io/EUROPE/attraction)
 
+# <font color="Red">↓</font>イベント<font color="Red">↓</font>
+[イベント](https://takajo-soft03.github.io/EUROPE/event)
+
+
 # アクセス
 サバの味噌煮駅4sin{cos(√36sinθ)}番ホームから電車で2√4分<br>
 天岩戸駅からバスで天照大神が出てくるくらいまでの時間<br>
