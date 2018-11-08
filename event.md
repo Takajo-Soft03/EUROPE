@@ -32,9 +32,10 @@
 20yy/mm/dd | [第16回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [第15回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [第14回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
+20yy/mm/dd | [期間限定、クリスマスエポルエくんが登場。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [第13回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [第12回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
-20yy/mm/dd | [●R×Europe。エポルエくんカラーのN500系が期間限定で運行。](https://takajo-soft03.github.io/EUROPE/event/info)<br>
+20yy/mm/dd | [●R×Europe。エポルエくんカラーの新幹線が期間限定で運行。](https://takajo-soft03.github.io/EUROPE/event/info)<br>
 20yy/mm/dd | [第11回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [期間限定、ハロウィンエポルエくんが登場。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [第10回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
@@ -45,10 +46,12 @@
 20yy/mm/dd | [第6回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [ウルトラヒーローショー開催のお知らせ](https://takajo-soft03.github.io/EUROPE/event/info)<br>
 20yy/mm/dd | [第5回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
+20yy/mm/dd | [](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [第4回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [年間フリーパスを発行可能になりました。](https://takajo-soft03.github.io/EUROPE/event/info)<br>
 20yy/mm/dd | [第3回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [エポルエくんパレードを定期イベント化することが決定しました。](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 20yy/mm/dd | [人気を博したエポルエくんパレード復活！ ](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
+20yy/mm/dd | [エポルエくんパレードをエポルエくんクッキーを食べながら楽しもう](https://takajo-soft03.github.io/EUROPE/event/food)<br>
 20yy/mm/dd | [エポルエくんパレード開催！ エポルエトレインに乗って夢の国へ行こう！](https://takajo-soft03.github.io/EUROPE/event/eporue)<br>
 [トップへ戻る](https://takajo-soft03.github.io/EUROPE/event)
