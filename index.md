@@ -20,9 +20,9 @@ EUROPEで一番の大魔法使いであるエポルエくんは、様々な魔�
 <hr>
 
 # アクセス
-<img src="map.png" width="450px">
-
 EUROPEの最寄り駅、初恋駅までは公共駅から電車で25分。また亀菜空港や海馬空港や主要駅から、直行バスも運行しています。
+
+<img src="map.png" width="450px">
 
 [![バス](B1.png)](https://takajo-soft03.github.io/EUROPE/Adjustment)
 
