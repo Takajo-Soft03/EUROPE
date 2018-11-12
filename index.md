@@ -1,8 +1,10 @@
 # <font color="BlueViolet">EUROPE world公式ＨＰへようこそ！！</font>
 <
-[ホームへ戻る](https://takajo-soft03.github.io/EUROPE/)>
+[アトラクションエリア情報へ](https://takajo-soft03.github.io/EUROPE/attraction)>
 <
-[アトラクションページへ](https://takajo-soft03.github.io/EUROPE/attraction)> <br>
+[観光エリア情報へ](https://takajo-soft03.github.io/EUROPE/)>
+<
+[イベント情報へ](https://takajo-soft03.github.io/EUROPE/event)> <br>
 <hr>
 
 # EUROPEとは？
@@ -14,18 +16,6 @@ EUROPEはまるでＲＰＧの中に飛び込んだかのような気分を味�
 EUROPEで一番の大魔法使いであるエポルエくんは、様々な魔法を使います。空を飛んだり火を吹いたりと、あの手この手であなたを楽しませようとしてくれます。エポルエくんのパレードやショーなども開催しているので、ご来園の際はぜひご覧下さい。[詳細はこちら](https://takajo-soft03.github.io/EUROPE/event)
 
 <img src="eporue.jpg" width="300px">
-
-<hr>
-
-# [<font color="Red">アトラクションエリアの情報はこちら</font>](https://takajo-soft03.github.io/EUROPE/attraction)
-
-<hr>
-
-# [<font color="Red">観光エリアの情報はこちら</font>]
-
-<hr>
-
-# [<font color="Red">イベント情報はこちら</font>](https://takajo-soft03.github.io/EUROPE/event)
 
 <hr>
 
