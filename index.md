@@ -8,7 +8,7 @@ EUROPEで一番の大魔法使いであるエポルエくんは、様々な魔�
 
 <img src="eporue.jpg" width="300px">
 
-# [<font color="Red">アトラクションエリアの情報はこちら</font>](https://takajo-soft03.github.io/EUROPE/attraction)
+# <font color="Red">[アトラクションエリアの情報はこちら]</font>(https://takajo-soft03.github.io/EUROPE/attraction)
 
 # アクセス
 <img src="map.png" width="450px">
