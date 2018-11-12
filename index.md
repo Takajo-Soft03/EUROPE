@@ -1,4 +1,4 @@
-# <font color="BlueViolet">EUROPE worldへようこそ！！</font>
+# <font color="BlueViolet">EUROPE world公式ＨＰへようこそ！！</font>
 
 # EUROPEとは？
 EUROPEはまるでＲＰＧの中に飛び込んだかのような気分を味わえる中世ヨーロッパファンタジーテーマパークです。園内は「アトラクションエリア」と「観光エリア」という２つのエリアと、オフィシャルホテルで構成されています。アトラクションで遊ぶ日帰りだけでなく滞在することでも楽しめるつくりとなっています。
@@ -11,7 +11,7 @@ EUROPEはまるでＲＰＧの中に飛び込んだかのような気分を味�
 [アトラクション](https://takajo-soft03.github.io/EUROPE/attraction)
 
 # アクセス
-[![マップ](map.png)]
+<img src="map.png" width="450px">
 サバの味噌煮駅4sin{cos(√36sinθ)}番ホームから電車で2√4分<br>
 天岩戸駅からバスで天照大神が出てくるくらいまでの時間<br>
 初恋駅から徒歩で冬があなたを奪い去るまでの時間<br>
