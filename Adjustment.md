@@ -1,1 +1,1 @@
-# <font color="Red">調整中です！</font>
+# <font color="Red">調整中です！ごめんなさい</font>
