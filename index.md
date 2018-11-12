@@ -12,10 +12,9 @@ EUROPEはまるでＲＰＧの中に飛び込んだかのような気分を味�
 
 # アクセス
 <img src="map.png" width="450px">
-サバの味噌煮駅4sin{cos(√36sinθ)}番ホームから電車で2√4分<br>
-天岩戸駅からバスで天照大神が出てくるくらいまでの時間<br>
-初恋駅から徒歩で冬があなたを奪い去るまでの時間<br>
-塩の水港から泳いで37分28秒55<br>
+EUROPEの最寄り駅、初恋駅までは公共駅から電車で25分。また亀菜空港や海馬空港や主要駅から、直行バスも運行しています。
+[![バス](B1.png)](https://takajo-soft03.github.io/EUROPE/event)
+[![徒歩](B2.png)](https://takajo-soft03.github.io/EUROPE/event)
 
 # 料金表
 <table>
