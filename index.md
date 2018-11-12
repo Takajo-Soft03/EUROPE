@@ -4,9 +4,8 @@
 EUROPEはまるでＲＰＧの中に飛び込んだかのような気分を味わえる中世ヨーロッパファンタジーテーマパークです。園内は「アトラクションエリア」と「観光エリア」という２つのエリアと、オフィシャルホテルで構成されています。アトラクションで遊ぶ日帰りだけでなく滞在することでも楽しめるつくりとなっています。
 
 # 当園人気マスコットキャラクター<font color="Red">エポルエくん</font>
-[![エポルエくん](eporu.jpg)](https://takajo-soft03.github.io/EUROPE/event)
 当園のマスコットキャラクターであるエポルエくんは、まるで御伽噺に出てくる魔法使いのように様々な魔法を使います。空を飛んだり、火を吹いたり……。あの手この手であなたを楽しませようとしてくれます。エポルエくんのパレードやショーなども開催しているので、ご来園の際はぜひご覧下さい。[詳細はこちら](https://takajo-soft03.github.io/EUROPE/event)
-[![エポルエくん](eporu.jpg)](https://takajo-soft03.github.io/EUROPE/event)
+<img src="eporue.jpg" width="500px">
 
 # <font color="Red">↓</font>アトラクション<font color="Red">↓</font>
 [アトラクション](https://takajo-soft03.github.io/EUROPE/attraction)
