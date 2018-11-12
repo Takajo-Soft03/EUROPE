@@ -55,4 +55,6 @@ EUROPEの最寄り駅、初恋駅までは公共駅から電車で25分。また
   </tbody>
 </table>
 
+<hr>
+
 [トップへ戻る](https://takajo-soft03.github.io/EUROPE/)
