@@ -1,5 +1,8 @@
 # <font color="BlueViolet">EUROPE world公式ＨＰへようこそ！！</font>
-
+<
+[ホームへ戻る](https://takajo-soft03.github.io/EUROPE/)>
+<
+[アトラクションページへ](https://takajo-soft03.github.io/EUROPE/attraction)> <br>
 <hr>
 
 # EUROPEとは？
