@@ -1,7 +1,7 @@
 ＜[ホームへ戻る](https://takajo-soft03.github.io/EUROPE)＞
 ＜[イベントページへ](https://takajo-soft03.github.io/EUROPE/event)＞<br>
 
-# アトラクション
+# アトラクションエリア
 ****************
 * ## <span style="color:Lightgreen;">ジェットコースター</span>
     * ### <span style="color:black;">ライドオンシルバードラゴン</span>
