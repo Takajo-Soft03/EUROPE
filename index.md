@@ -2,8 +2,6 @@
 <
 [アトラクションエリア情報へ](https://takajo-soft03.github.io/EUROPE/attraction)>
 <
-[観光エリア情報へ](https://takajo-soft03.github.io/EUROPE/)>
-<
 [イベント情報へ](https://takajo-soft03.github.io/EUROPE/event)> <br>
 <hr>
 
